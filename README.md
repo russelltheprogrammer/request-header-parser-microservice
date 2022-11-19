@@ -33,6 +33,7 @@ I cloned the freeCodeCamp repo from Github.
 ## Key Concepts Used
 
 - HTTPS Requests
+- HTTPS Requests Header Parsers
 - Building an API
 - Express.js
 - Node.js
